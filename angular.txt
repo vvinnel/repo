@@ -1,5 +1,0 @@
-AngularJS
-MVC - Framework!
-
-Develop
-branch
